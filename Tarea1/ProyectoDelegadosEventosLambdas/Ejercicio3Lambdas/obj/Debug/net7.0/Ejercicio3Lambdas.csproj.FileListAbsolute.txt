@@ -1,0 +1,15 @@
+D:\Curso .Net\Actividad2\Tarea1\ProyectoDelegadosEventosLambdas\Ejercicio3Lambdas\bin\Debug\net7.0\Ejercicio3Lambdas.exe
+D:\Curso .Net\Actividad2\Tarea1\ProyectoDelegadosEventosLambdas\Ejercicio3Lambdas\bin\Debug\net7.0\Ejercicio3Lambdas.deps.json
+D:\Curso .Net\Actividad2\Tarea1\ProyectoDelegadosEventosLambdas\Ejercicio3Lambdas\bin\Debug\net7.0\Ejercicio3Lambdas.runtimeconfig.json
+D:\Curso .Net\Actividad2\Tarea1\ProyectoDelegadosEventosLambdas\Ejercicio3Lambdas\bin\Debug\net7.0\Ejercicio3Lambdas.dll
+D:\Curso .Net\Actividad2\Tarea1\ProyectoDelegadosEventosLambdas\Ejercicio3Lambdas\bin\Debug\net7.0\Ejercicio3Lambdas.pdb
+D:\Curso .Net\Actividad2\Tarea1\ProyectoDelegadosEventosLambdas\Ejercicio3Lambdas\obj\Debug\net7.0\Ejercicio3Lambdas.csproj.AssemblyReference.cache
+D:\Curso .Net\Actividad2\Tarea1\ProyectoDelegadosEventosLambdas\Ejercicio3Lambdas\obj\Debug\net7.0\Ejercicio3Lambdas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso .Net\Actividad2\Tarea1\ProyectoDelegadosEventosLambdas\Ejercicio3Lambdas\obj\Debug\net7.0\Ejercicio3Lambdas.AssemblyInfoInputs.cache
+D:\Curso .Net\Actividad2\Tarea1\ProyectoDelegadosEventosLambdas\Ejercicio3Lambdas\obj\Debug\net7.0\Ejercicio3Lambdas.AssemblyInfo.cs
+D:\Curso .Net\Actividad2\Tarea1\ProyectoDelegadosEventosLambdas\Ejercicio3Lambdas\obj\Debug\net7.0\Ejercicio3Lambdas.csproj.CoreCompileInputs.cache
+D:\Curso .Net\Actividad2\Tarea1\ProyectoDelegadosEventosLambdas\Ejercicio3Lambdas\obj\Debug\net7.0\Ejercicio3Lambdas.dll
+D:\Curso .Net\Actividad2\Tarea1\ProyectoDelegadosEventosLambdas\Ejercicio3Lambdas\obj\Debug\net7.0\refint\Ejercicio3Lambdas.dll
+D:\Curso .Net\Actividad2\Tarea1\ProyectoDelegadosEventosLambdas\Ejercicio3Lambdas\obj\Debug\net7.0\Ejercicio3Lambdas.pdb
+D:\Curso .Net\Actividad2\Tarea1\ProyectoDelegadosEventosLambdas\Ejercicio3Lambdas\obj\Debug\net7.0\Ejercicio3Lambdas.genruntimeconfig.cache
+D:\Curso .Net\Actividad2\Tarea1\ProyectoDelegadosEventosLambdas\Ejercicio3Lambdas\obj\Debug\net7.0\ref\Ejercicio3Lambdas.dll

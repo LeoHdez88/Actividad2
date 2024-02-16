@@ -1,0 +1,15 @@
+D:\Curso .Net\Actividad2\Tarea2\ProyectoLinQ\Ejercicio1ConsultaSimple\obj\Debug\net7.0\Ejercicio1ConsultaSimple.csproj.AssemblyReference.cache
+D:\Curso .Net\Actividad2\Tarea2\ProyectoLinQ\Ejercicio1ConsultaSimple\obj\Debug\net7.0\Ejercicio1ConsultaSimple.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso .Net\Actividad2\Tarea2\ProyectoLinQ\Ejercicio1ConsultaSimple\obj\Debug\net7.0\Ejercicio1ConsultaSimple.AssemblyInfoInputs.cache
+D:\Curso .Net\Actividad2\Tarea2\ProyectoLinQ\Ejercicio1ConsultaSimple\obj\Debug\net7.0\Ejercicio1ConsultaSimple.AssemblyInfo.cs
+D:\Curso .Net\Actividad2\Tarea2\ProyectoLinQ\Ejercicio1ConsultaSimple\obj\Debug\net7.0\Ejercicio1ConsultaSimple.csproj.CoreCompileInputs.cache
+D:\Curso .Net\Actividad2\Tarea2\ProyectoLinQ\Ejercicio1ConsultaSimple\bin\Debug\net7.0\Ejercicio1ConsultaSimple.exe
+D:\Curso .Net\Actividad2\Tarea2\ProyectoLinQ\Ejercicio1ConsultaSimple\bin\Debug\net7.0\Ejercicio1ConsultaSimple.deps.json
+D:\Curso .Net\Actividad2\Tarea2\ProyectoLinQ\Ejercicio1ConsultaSimple\bin\Debug\net7.0\Ejercicio1ConsultaSimple.runtimeconfig.json
+D:\Curso .Net\Actividad2\Tarea2\ProyectoLinQ\Ejercicio1ConsultaSimple\bin\Debug\net7.0\Ejercicio1ConsultaSimple.dll
+D:\Curso .Net\Actividad2\Tarea2\ProyectoLinQ\Ejercicio1ConsultaSimple\bin\Debug\net7.0\Ejercicio1ConsultaSimple.pdb
+D:\Curso .Net\Actividad2\Tarea2\ProyectoLinQ\Ejercicio1ConsultaSimple\obj\Debug\net7.0\Ejercicio1ConsultaSimple.dll
+D:\Curso .Net\Actividad2\Tarea2\ProyectoLinQ\Ejercicio1ConsultaSimple\obj\Debug\net7.0\refint\Ejercicio1ConsultaSimple.dll
+D:\Curso .Net\Actividad2\Tarea2\ProyectoLinQ\Ejercicio1ConsultaSimple\obj\Debug\net7.0\Ejercicio1ConsultaSimple.pdb
+D:\Curso .Net\Actividad2\Tarea2\ProyectoLinQ\Ejercicio1ConsultaSimple\obj\Debug\net7.0\Ejercicio1ConsultaSimple.genruntimeconfig.cache
+D:\Curso .Net\Actividad2\Tarea2\ProyectoLinQ\Ejercicio1ConsultaSimple\obj\Debug\net7.0\ref\Ejercicio1ConsultaSimple.dll

@@ -1,0 +1,15 @@
+D:\Curso .Net\Actividad2\Tarea1\ProyectoDelegadosEventosLambdas\Ejercicio1Delegados\bin\Debug\net7.0\Ejercicio1Delegados.exe
+D:\Curso .Net\Actividad2\Tarea1\ProyectoDelegadosEventosLambdas\Ejercicio1Delegados\bin\Debug\net7.0\Ejercicio1Delegados.deps.json
+D:\Curso .Net\Actividad2\Tarea1\ProyectoDelegadosEventosLambdas\Ejercicio1Delegados\bin\Debug\net7.0\Ejercicio1Delegados.runtimeconfig.json
+D:\Curso .Net\Actividad2\Tarea1\ProyectoDelegadosEventosLambdas\Ejercicio1Delegados\bin\Debug\net7.0\Ejercicio1Delegados.dll
+D:\Curso .Net\Actividad2\Tarea1\ProyectoDelegadosEventosLambdas\Ejercicio1Delegados\bin\Debug\net7.0\Ejercicio1Delegados.pdb
+D:\Curso .Net\Actividad2\Tarea1\ProyectoDelegadosEventosLambdas\Ejercicio1Delegados\obj\Debug\net7.0\Ejercicio1Delegados.csproj.AssemblyReference.cache
+D:\Curso .Net\Actividad2\Tarea1\ProyectoDelegadosEventosLambdas\Ejercicio1Delegados\obj\Debug\net7.0\Ejercicio1Delegados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso .Net\Actividad2\Tarea1\ProyectoDelegadosEventosLambdas\Ejercicio1Delegados\obj\Debug\net7.0\Ejercicio1Delegados.AssemblyInfoInputs.cache
+D:\Curso .Net\Actividad2\Tarea1\ProyectoDelegadosEventosLambdas\Ejercicio1Delegados\obj\Debug\net7.0\Ejercicio1Delegados.AssemblyInfo.cs
+D:\Curso .Net\Actividad2\Tarea1\ProyectoDelegadosEventosLambdas\Ejercicio1Delegados\obj\Debug\net7.0\Ejercicio1Delegados.csproj.CoreCompileInputs.cache
+D:\Curso .Net\Actividad2\Tarea1\ProyectoDelegadosEventosLambdas\Ejercicio1Delegados\obj\Debug\net7.0\Ejercicio1Delegados.dll
+D:\Curso .Net\Actividad2\Tarea1\ProyectoDelegadosEventosLambdas\Ejercicio1Delegados\obj\Debug\net7.0\refint\Ejercicio1Delegados.dll
+D:\Curso .Net\Actividad2\Tarea1\ProyectoDelegadosEventosLambdas\Ejercicio1Delegados\obj\Debug\net7.0\Ejercicio1Delegados.pdb
+D:\Curso .Net\Actividad2\Tarea1\ProyectoDelegadosEventosLambdas\Ejercicio1Delegados\obj\Debug\net7.0\Ejercicio1Delegados.genruntimeconfig.cache
+D:\Curso .Net\Actividad2\Tarea1\ProyectoDelegadosEventosLambdas\Ejercicio1Delegados\obj\Debug\net7.0\ref\Ejercicio1Delegados.dll

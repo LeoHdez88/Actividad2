@@ -1,0 +1,15 @@
+D:\Curso .Net\Actividad2\Tarea3\Ejercicio1TareaBasicaAsinc\obj\Debug\net7.0\Ejercicio1TareaBasicaAsinc.csproj.AssemblyReference.cache
+D:\Curso .Net\Actividad2\Tarea3\Ejercicio1TareaBasicaAsinc\obj\Debug\net7.0\Ejercicio1TareaBasicaAsinc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso .Net\Actividad2\Tarea3\Ejercicio1TareaBasicaAsinc\obj\Debug\net7.0\Ejercicio1TareaBasicaAsinc.AssemblyInfoInputs.cache
+D:\Curso .Net\Actividad2\Tarea3\Ejercicio1TareaBasicaAsinc\obj\Debug\net7.0\Ejercicio1TareaBasicaAsinc.AssemblyInfo.cs
+D:\Curso .Net\Actividad2\Tarea3\Ejercicio1TareaBasicaAsinc\obj\Debug\net7.0\Ejercicio1TareaBasicaAsinc.csproj.CoreCompileInputs.cache
+D:\Curso .Net\Actividad2\Tarea3\Ejercicio1TareaBasicaAsinc\bin\Debug\net7.0\Ejercicio1TareaBasicaAsinc.exe
+D:\Curso .Net\Actividad2\Tarea3\Ejercicio1TareaBasicaAsinc\bin\Debug\net7.0\Ejercicio1TareaBasicaAsinc.deps.json
+D:\Curso .Net\Actividad2\Tarea3\Ejercicio1TareaBasicaAsinc\bin\Debug\net7.0\Ejercicio1TareaBasicaAsinc.runtimeconfig.json
+D:\Curso .Net\Actividad2\Tarea3\Ejercicio1TareaBasicaAsinc\bin\Debug\net7.0\Ejercicio1TareaBasicaAsinc.dll
+D:\Curso .Net\Actividad2\Tarea3\Ejercicio1TareaBasicaAsinc\bin\Debug\net7.0\Ejercicio1TareaBasicaAsinc.pdb
+D:\Curso .Net\Actividad2\Tarea3\Ejercicio1TareaBasicaAsinc\obj\Debug\net7.0\Ejercicio1TareaBasicaAsinc.dll
+D:\Curso .Net\Actividad2\Tarea3\Ejercicio1TareaBasicaAsinc\obj\Debug\net7.0\refint\Ejercicio1TareaBasicaAsinc.dll
+D:\Curso .Net\Actividad2\Tarea3\Ejercicio1TareaBasicaAsinc\obj\Debug\net7.0\Ejercicio1TareaBasicaAsinc.pdb
+D:\Curso .Net\Actividad2\Tarea3\Ejercicio1TareaBasicaAsinc\obj\Debug\net7.0\Ejercicio1TareaBasicaAsinc.genruntimeconfig.cache
+D:\Curso .Net\Actividad2\Tarea3\Ejercicio1TareaBasicaAsinc\obj\Debug\net7.0\ref\Ejercicio1TareaBasicaAsinc.dll

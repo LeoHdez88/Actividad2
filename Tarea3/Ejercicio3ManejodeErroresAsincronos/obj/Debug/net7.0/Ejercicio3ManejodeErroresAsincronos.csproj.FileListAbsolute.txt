@@ -1,0 +1,15 @@
+D:\Curso .Net\Actividad2\Tarea3\Ejercicio3ManejodeErroresAsincronos\bin\Debug\net7.0\Ejercicio3ManejodeErroresAsincronos.exe
+D:\Curso .Net\Actividad2\Tarea3\Ejercicio3ManejodeErroresAsincronos\bin\Debug\net7.0\Ejercicio3ManejodeErroresAsincronos.deps.json
+D:\Curso .Net\Actividad2\Tarea3\Ejercicio3ManejodeErroresAsincronos\bin\Debug\net7.0\Ejercicio3ManejodeErroresAsincronos.runtimeconfig.json
+D:\Curso .Net\Actividad2\Tarea3\Ejercicio3ManejodeErroresAsincronos\bin\Debug\net7.0\Ejercicio3ManejodeErroresAsincronos.dll
+D:\Curso .Net\Actividad2\Tarea3\Ejercicio3ManejodeErroresAsincronos\bin\Debug\net7.0\Ejercicio3ManejodeErroresAsincronos.pdb
+D:\Curso .Net\Actividad2\Tarea3\Ejercicio3ManejodeErroresAsincronos\obj\Debug\net7.0\Ejercicio3ManejodeErroresAsincronos.csproj.AssemblyReference.cache
+D:\Curso .Net\Actividad2\Tarea3\Ejercicio3ManejodeErroresAsincronos\obj\Debug\net7.0\Ejercicio3ManejodeErroresAsincronos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso .Net\Actividad2\Tarea3\Ejercicio3ManejodeErroresAsincronos\obj\Debug\net7.0\Ejercicio3ManejodeErroresAsincronos.AssemblyInfoInputs.cache
+D:\Curso .Net\Actividad2\Tarea3\Ejercicio3ManejodeErroresAsincronos\obj\Debug\net7.0\Ejercicio3ManejodeErroresAsincronos.AssemblyInfo.cs
+D:\Curso .Net\Actividad2\Tarea3\Ejercicio3ManejodeErroresAsincronos\obj\Debug\net7.0\Ejercicio3ManejodeErroresAsincronos.csproj.CoreCompileInputs.cache
+D:\Curso .Net\Actividad2\Tarea3\Ejercicio3ManejodeErroresAsincronos\obj\Debug\net7.0\Ejercicio3ManejodeErroresAsincronos.dll
+D:\Curso .Net\Actividad2\Tarea3\Ejercicio3ManejodeErroresAsincronos\obj\Debug\net7.0\refint\Ejercicio3ManejodeErroresAsincronos.dll
+D:\Curso .Net\Actividad2\Tarea3\Ejercicio3ManejodeErroresAsincronos\obj\Debug\net7.0\Ejercicio3ManejodeErroresAsincronos.pdb
+D:\Curso .Net\Actividad2\Tarea3\Ejercicio3ManejodeErroresAsincronos\obj\Debug\net7.0\Ejercicio3ManejodeErroresAsincronos.genruntimeconfig.cache
+D:\Curso .Net\Actividad2\Tarea3\Ejercicio3ManejodeErroresAsincronos\obj\Debug\net7.0\ref\Ejercicio3ManejodeErroresAsincronos.dll

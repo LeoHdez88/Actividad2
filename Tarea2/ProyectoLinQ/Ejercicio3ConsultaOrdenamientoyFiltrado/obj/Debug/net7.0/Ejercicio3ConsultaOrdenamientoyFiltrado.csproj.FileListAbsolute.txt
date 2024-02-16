@@ -1,0 +1,15 @@
+D:\Curso .Net\Actividad2\Tarea2\ProyectoLinQ\Ejercicio3ConsultaOrdenamientoyFiltrado\bin\Debug\net7.0\Ejercicio3ConsultaOrdenamientoyFiltrado.exe
+D:\Curso .Net\Actividad2\Tarea2\ProyectoLinQ\Ejercicio3ConsultaOrdenamientoyFiltrado\bin\Debug\net7.0\Ejercicio3ConsultaOrdenamientoyFiltrado.deps.json
+D:\Curso .Net\Actividad2\Tarea2\ProyectoLinQ\Ejercicio3ConsultaOrdenamientoyFiltrado\bin\Debug\net7.0\Ejercicio3ConsultaOrdenamientoyFiltrado.runtimeconfig.json
+D:\Curso .Net\Actividad2\Tarea2\ProyectoLinQ\Ejercicio3ConsultaOrdenamientoyFiltrado\bin\Debug\net7.0\Ejercicio3ConsultaOrdenamientoyFiltrado.dll
+D:\Curso .Net\Actividad2\Tarea2\ProyectoLinQ\Ejercicio3ConsultaOrdenamientoyFiltrado\bin\Debug\net7.0\Ejercicio3ConsultaOrdenamientoyFiltrado.pdb
+D:\Curso .Net\Actividad2\Tarea2\ProyectoLinQ\Ejercicio3ConsultaOrdenamientoyFiltrado\obj\Debug\net7.0\Ejercicio3ConsultaOrdenamientoyFiltrado.csproj.AssemblyReference.cache
+D:\Curso .Net\Actividad2\Tarea2\ProyectoLinQ\Ejercicio3ConsultaOrdenamientoyFiltrado\obj\Debug\net7.0\Ejercicio3ConsultaOrdenamientoyFiltrado.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso .Net\Actividad2\Tarea2\ProyectoLinQ\Ejercicio3ConsultaOrdenamientoyFiltrado\obj\Debug\net7.0\Ejercicio3ConsultaOrdenamientoyFiltrado.AssemblyInfoInputs.cache
+D:\Curso .Net\Actividad2\Tarea2\ProyectoLinQ\Ejercicio3ConsultaOrdenamientoyFiltrado\obj\Debug\net7.0\Ejercicio3ConsultaOrdenamientoyFiltrado.AssemblyInfo.cs
+D:\Curso .Net\Actividad2\Tarea2\ProyectoLinQ\Ejercicio3ConsultaOrdenamientoyFiltrado\obj\Debug\net7.0\Ejercicio3ConsultaOrdenamientoyFiltrado.csproj.CoreCompileInputs.cache
+D:\Curso .Net\Actividad2\Tarea2\ProyectoLinQ\Ejercicio3ConsultaOrdenamientoyFiltrado\obj\Debug\net7.0\Ejercicio3ConsultaOrdenamientoyFiltrado.dll
+D:\Curso .Net\Actividad2\Tarea2\ProyectoLinQ\Ejercicio3ConsultaOrdenamientoyFiltrado\obj\Debug\net7.0\refint\Ejercicio3ConsultaOrdenamientoyFiltrado.dll
+D:\Curso .Net\Actividad2\Tarea2\ProyectoLinQ\Ejercicio3ConsultaOrdenamientoyFiltrado\obj\Debug\net7.0\Ejercicio3ConsultaOrdenamientoyFiltrado.pdb
+D:\Curso .Net\Actividad2\Tarea2\ProyectoLinQ\Ejercicio3ConsultaOrdenamientoyFiltrado\obj\Debug\net7.0\Ejercicio3ConsultaOrdenamientoyFiltrado.genruntimeconfig.cache
+D:\Curso .Net\Actividad2\Tarea2\ProyectoLinQ\Ejercicio3ConsultaOrdenamientoyFiltrado\obj\Debug\net7.0\ref\Ejercicio3ConsultaOrdenamientoyFiltrado.dll

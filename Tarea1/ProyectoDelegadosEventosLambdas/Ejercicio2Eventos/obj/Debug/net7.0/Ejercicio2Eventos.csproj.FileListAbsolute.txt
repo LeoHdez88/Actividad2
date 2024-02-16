@@ -1,0 +1,15 @@
+D:\Curso .Net\Actividad2\Tarea1\ProyectoDelegadosEventosLambdas\Ejercicio2Eventos\bin\Debug\net7.0\Ejercicio2Eventos.exe
+D:\Curso .Net\Actividad2\Tarea1\ProyectoDelegadosEventosLambdas\Ejercicio2Eventos\bin\Debug\net7.0\Ejercicio2Eventos.deps.json
+D:\Curso .Net\Actividad2\Tarea1\ProyectoDelegadosEventosLambdas\Ejercicio2Eventos\bin\Debug\net7.0\Ejercicio2Eventos.runtimeconfig.json
+D:\Curso .Net\Actividad2\Tarea1\ProyectoDelegadosEventosLambdas\Ejercicio2Eventos\bin\Debug\net7.0\Ejercicio2Eventos.dll
+D:\Curso .Net\Actividad2\Tarea1\ProyectoDelegadosEventosLambdas\Ejercicio2Eventos\bin\Debug\net7.0\Ejercicio2Eventos.pdb
+D:\Curso .Net\Actividad2\Tarea1\ProyectoDelegadosEventosLambdas\Ejercicio2Eventos\obj\Debug\net7.0\Ejercicio2Eventos.csproj.AssemblyReference.cache
+D:\Curso .Net\Actividad2\Tarea1\ProyectoDelegadosEventosLambdas\Ejercicio2Eventos\obj\Debug\net7.0\Ejercicio2Eventos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso .Net\Actividad2\Tarea1\ProyectoDelegadosEventosLambdas\Ejercicio2Eventos\obj\Debug\net7.0\Ejercicio2Eventos.AssemblyInfoInputs.cache
+D:\Curso .Net\Actividad2\Tarea1\ProyectoDelegadosEventosLambdas\Ejercicio2Eventos\obj\Debug\net7.0\Ejercicio2Eventos.AssemblyInfo.cs
+D:\Curso .Net\Actividad2\Tarea1\ProyectoDelegadosEventosLambdas\Ejercicio2Eventos\obj\Debug\net7.0\Ejercicio2Eventos.csproj.CoreCompileInputs.cache
+D:\Curso .Net\Actividad2\Tarea1\ProyectoDelegadosEventosLambdas\Ejercicio2Eventos\obj\Debug\net7.0\Ejercicio2Eventos.dll
+D:\Curso .Net\Actividad2\Tarea1\ProyectoDelegadosEventosLambdas\Ejercicio2Eventos\obj\Debug\net7.0\refint\Ejercicio2Eventos.dll
+D:\Curso .Net\Actividad2\Tarea1\ProyectoDelegadosEventosLambdas\Ejercicio2Eventos\obj\Debug\net7.0\Ejercicio2Eventos.pdb
+D:\Curso .Net\Actividad2\Tarea1\ProyectoDelegadosEventosLambdas\Ejercicio2Eventos\obj\Debug\net7.0\Ejercicio2Eventos.genruntimeconfig.cache
+D:\Curso .Net\Actividad2\Tarea1\ProyectoDelegadosEventosLambdas\Ejercicio2Eventos\obj\Debug\net7.0\ref\Ejercicio2Eventos.dll

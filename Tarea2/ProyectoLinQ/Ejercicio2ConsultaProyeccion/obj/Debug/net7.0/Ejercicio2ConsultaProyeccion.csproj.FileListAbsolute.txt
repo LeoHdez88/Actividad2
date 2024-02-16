@@ -1,0 +1,15 @@
+D:\Curso .Net\Actividad2\Tarea2\ProyectoLinQ\Ejercicio2ConsultaProyeccion\bin\Debug\net7.0\Ejercicio2ConsultaProyeccion.exe
+D:\Curso .Net\Actividad2\Tarea2\ProyectoLinQ\Ejercicio2ConsultaProyeccion\bin\Debug\net7.0\Ejercicio2ConsultaProyeccion.deps.json
+D:\Curso .Net\Actividad2\Tarea2\ProyectoLinQ\Ejercicio2ConsultaProyeccion\bin\Debug\net7.0\Ejercicio2ConsultaProyeccion.runtimeconfig.json
+D:\Curso .Net\Actividad2\Tarea2\ProyectoLinQ\Ejercicio2ConsultaProyeccion\bin\Debug\net7.0\Ejercicio2ConsultaProyeccion.dll
+D:\Curso .Net\Actividad2\Tarea2\ProyectoLinQ\Ejercicio2ConsultaProyeccion\bin\Debug\net7.0\Ejercicio2ConsultaProyeccion.pdb
+D:\Curso .Net\Actividad2\Tarea2\ProyectoLinQ\Ejercicio2ConsultaProyeccion\obj\Debug\net7.0\Ejercicio2ConsultaProyeccion.csproj.AssemblyReference.cache
+D:\Curso .Net\Actividad2\Tarea2\ProyectoLinQ\Ejercicio2ConsultaProyeccion\obj\Debug\net7.0\Ejercicio2ConsultaProyeccion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso .Net\Actividad2\Tarea2\ProyectoLinQ\Ejercicio2ConsultaProyeccion\obj\Debug\net7.0\Ejercicio2ConsultaProyeccion.AssemblyInfoInputs.cache
+D:\Curso .Net\Actividad2\Tarea2\ProyectoLinQ\Ejercicio2ConsultaProyeccion\obj\Debug\net7.0\Ejercicio2ConsultaProyeccion.AssemblyInfo.cs
+D:\Curso .Net\Actividad2\Tarea2\ProyectoLinQ\Ejercicio2ConsultaProyeccion\obj\Debug\net7.0\Ejercicio2ConsultaProyeccion.csproj.CoreCompileInputs.cache
+D:\Curso .Net\Actividad2\Tarea2\ProyectoLinQ\Ejercicio2ConsultaProyeccion\obj\Debug\net7.0\Ejercicio2ConsultaProyeccion.dll
+D:\Curso .Net\Actividad2\Tarea2\ProyectoLinQ\Ejercicio2ConsultaProyeccion\obj\Debug\net7.0\refint\Ejercicio2ConsultaProyeccion.dll
+D:\Curso .Net\Actividad2\Tarea2\ProyectoLinQ\Ejercicio2ConsultaProyeccion\obj\Debug\net7.0\Ejercicio2ConsultaProyeccion.pdb
+D:\Curso .Net\Actividad2\Tarea2\ProyectoLinQ\Ejercicio2ConsultaProyeccion\obj\Debug\net7.0\Ejercicio2ConsultaProyeccion.genruntimeconfig.cache
+D:\Curso .Net\Actividad2\Tarea2\ProyectoLinQ\Ejercicio2ConsultaProyeccion\obj\Debug\net7.0\ref\Ejercicio2ConsultaProyeccion.dll
